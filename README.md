@@ -1,7 +1,7 @@
 ### Olá Sou Anderson 👋
 Eu comecei entrar no mundo do Desenvolvimento web.
 Eu sou interior sp tenho 40 anos de idade,no momento estou terminando Faculdade ADS pela universidade Franca-sp
-
+<!--
 **andersontecnicoprogramador/andersontecnicoprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
