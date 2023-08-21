@@ -1,6 +1,6 @@
 ### Olá Sou Anderson 👋
 Eu comecei entrar no mundo do Desenvolvimento web.
-Eu sou interior sp tenho 40 anos de idade,no momento estou terminando Faculdade ADS pela universidade Franca-sp
+Eu sou interior sp tenho 42 anos de idade,no momento estou terminando Faculdade ADS pela universidade Franca-sp
 
 - Estamos em construção! 
 
