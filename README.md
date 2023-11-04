@@ -19,7 +19,7 @@ Eu sou interior sp tenho 42 anos de idade,no momento estou terminando Faculdade 
  <div align="center">
   <a href="https://github.com/andersontecnicoprogramador">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersontecnicoprogramador&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" border-radius: 50%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontecnicoprogramador&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" border-radius: 100px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontecnicoprogramador&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   
