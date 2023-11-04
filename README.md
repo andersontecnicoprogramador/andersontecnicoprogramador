@@ -19,7 +19,7 @@ Eu sou interior sp tenho 42 anos de idade,no momento estou terminando Faculdade 
  <div align="center">
   <a href="https://github.com/andersontecnicoprogramador">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersontecnicoprogramador&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" border-radius: 100px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontecnicoprogramador&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontecnicoprogramador&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   
@@ -31,7 +31,7 @@ Eu sou interior sp tenho 42 anos de idade,no momento estou terminando Faculdade 
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="Anderson-pic" height="150" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/68762932?v=4">
+<img align="right" alt="Anderson-pic" height="150" style="border-radius:90;" src="https://avatars.githubusercontent.com/u/68762932?v=4">
 </div>
 
 
